@@ -1,0 +1,21 @@
+sudo pacman -S \
+wayland \
+wayland-protocols \
+swayfx \
+wofi \
+waybar \
+kitty \
+fastfetch \
+git \
+github-cli \
+polkit \
+xdg-desktop-portal-wlr \
+grim \
+slurp \
+wl-clipboard \
+pipewire \
+pipewire-pulse \
+wireplumber \
+ttf-dejavu \
+noto-fonts \
+noto-fonts-emoji
