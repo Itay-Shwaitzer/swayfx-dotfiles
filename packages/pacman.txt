@@ -24,3 +24,4 @@ ttf-jetbrains-mono-nerd
 tree
 less
 clipshit
+libnotify
