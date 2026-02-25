@@ -1,1 +1,23 @@
-waybar wofi kitty grim slurp wl-clipboard pipewire pipewire-pulse wireplumber pavucontrol mako swaylock swayidle brightnessctl firefox polkit polkit-gnome git github-cli noto-fonts noto-fonts-emoji ttf-jetbrains-mono-nerd
+waybar
+wofi
+kitty
+grim
+slurp
+wl-clipboard
+pipewire
+pipewire-pulse
+wireplumber
+pavucontrol
+mako
+swaylock
+swayidle
+brightnessctl
+firefox
+polkit
+polkit-gnome
+git
+github-cli
+noto-fonts
+noto-fonts-emoji
+ttf-jetbrains-mono-nerd
+tree
