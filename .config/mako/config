@@ -1,0 +1,26 @@
+font=JetBrainsMono Nerd Font 13
+
+background-color=#1a1b26cc
+text-color=#c0caf5ff
+border-color=#7aa2f744
+
+border-size=2
+border-radius=14
+
+padding=12
+margin=12
+
+width=360
+height=100
+
+default-timeout=5000
+ignore-timeout=0
+
+icons=0
+markup=1
+
+anchor=top-right
+layer=top
+
+group-by=app-name
+max-visible=3
