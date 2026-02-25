@@ -1,23 +1,18 @@
-show=drun
+kshow=drun
 prompt=Search
 width=520
-height=340
+height=360
 location=center
-halign=fill
-valign=middle
 
-allow_images=true
-image_size=24
-
-insensitive=true
 matching=fuzzy
-term=kitty
+insensitive=true
 
-lines=7
-columns=1
+allow_images=false
 
 hide_scroll=true
 no_actions=true
 
+lines=7
+columns=1
 key_expand=Tab
 key_exit=Escape
