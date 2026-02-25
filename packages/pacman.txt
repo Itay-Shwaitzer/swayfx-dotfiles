@@ -9,6 +9,7 @@ pipewire-pulse
 wireplumber
 pavucontrol
 mako
+thunar
 swaylock
 swayidle
 brightnessctl
@@ -22,3 +23,4 @@ noto-fonts-emoji
 ttf-jetbrains-mono-nerd
 tree
 less
+clipshit
