@@ -44,7 +44,10 @@
     "interval": 20,
     "format": "  {capacity}%",
     "format-charging": "  {capacity}%",
-    "states": { "warning": 25, "critical": 12 },
+    "states": {
+      "warning": 25,
+      "critical": 12
+    },
     "tooltip": false
   }
 }
