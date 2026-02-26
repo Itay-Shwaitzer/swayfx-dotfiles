@@ -27,3 +27,4 @@ clipshit
 libnotify
 greetd
 greetd-tuigreet
+fastfetch
