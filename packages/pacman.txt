@@ -25,3 +25,5 @@ tree
 less
 clipshit
 libnotify
+greetd
+greetd-tuigreet
